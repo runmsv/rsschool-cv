@@ -1,1 +1,1 @@
-https://runmsv.github.io/rsschool-cv/cv
+https://runmsv.github.io/rsschool-cv/
